@@ -2,7 +2,7 @@ package Gambling;
 
 public class Gambling {
     public static void main(String[] args) {
-        int STAKE = 100;
+        int STAKE =100;
         System.out.println("Gambler start with stake of $" + STAKE);
         int TRIAL = (int) Math.floor(Math.random() * 2);
         System.out.println(+TRIAL);
