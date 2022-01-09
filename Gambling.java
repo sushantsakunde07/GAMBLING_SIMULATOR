@@ -16,6 +16,5 @@ public class Gambling {
         {
             System.out.println("Gambler having stake after bet are of $ " + STAKE);
         }
-
     }
 }
