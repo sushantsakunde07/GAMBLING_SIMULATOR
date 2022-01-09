@@ -2,7 +2,7 @@ package Gambling;
 
 public class Gambling {
     public static void main(String[] args) {
-        int win = 0;
+        int win =0;
         int loose = 0;
         for (int i = 0; i < 20; i++) {
             int stake = 100;
